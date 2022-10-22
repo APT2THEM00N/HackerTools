@@ -1,5 +1,3 @@
-# HIP{T4ke_Y0uR_F14G_In_Th15_C0mm1t}
-
 import pyfiglet
 import sys
 import socket
